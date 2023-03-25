@@ -1,0 +1,374 @@
+*********** TEXT DETECTION STARTS ***********
+image1.jpg
+NORTH MIAMI
+TOYOTA
+NORTH
+MIAMI
+TOYOTA
+
+image3.jpg
+THE NEW
+HARRIER
+#AboveAll
+HARRIER
+BOOKINGS OPEN
+THE
+NEW
+HARRIER
+#AboveAll
+HARRIER
+BOOKINGS
+OPEN
+
+image4.jpg
+2022 TOYOTA FORTUNER
+PORTT
+POR
+FORTUNER
+FORTUNER
+GaadiWaadi.com
+2022
+TOYOTA
+FORTUNER
+PORTT
+POR
+FORTUNER
+FORTUNER
+GaadiWaadi.com
+
+image6.jpg
+Model 3
+Est. Delivery: Jun - Aug 2022
+Purchase Price
+Potential savings*
+334mi
+145mph
+4.2sec
+0-60 mph
+Range (est.)
+Top Speed
+Rear-Wheel Drive
+Model 3
+$46,990
+Learn more about Range and Performance
+Dual Motor All-Wheel Drive
+Model 3 Long Range
+$55,990
+Model 3 Performance
+$62,990
+$57,490 Vehicle Price
+$52,440 After potential savings
+Model
+3
+Est.
+Delivery:
+Jun - Aug
+2022
+Purchase
+Price
+Potential
+savings*
+334mi
+145mph
+4.2sec
+0-60
+mph
+Range
+(est.)
+Top
+Speed
+Rear-Wheel
+Drive
+Model
+3
+$46,990
+Learn
+more
+about
+Range
+and
+Performance
+Dual
+Motor
+All-Wheel
+Drive
+Model
+3
+Long
+Range
+$55,990
+Model
+3
+Performance
+$62,990
+$57,490
+Vehicle
+Price
+$52,440
+After
+potential
+savings
+
+image7.jpg
+2023 Mercedes-Benz
+GLA 250 4MATIC®
+LEASE FOR
+$ 529/MO
+FOR 36 MONTHS
+$4,253 TOTAL DUE AT SIGNING
+2023 MERCEDES- BENZ GLA 4MATIC® AVAILABLE ONLY QUALIFIED CUSTOMERS THROUGH MERCEDES-BENZ FINANCIAL SERVICES (WHERE APPLICABLE ADVERTISED LEASE) PARTICIPATING AUTHORIZED MERCEDES-BENZ THROUGH NOT EVERYONE
+ADVERTISED 250 TO MSRP OF LESS IN TO COST AT OF $40,915. SETS CONTRIBUTION DEALERS 3.31. 23 COULDAFFECT
+SHOP INVENTORY
+WILL QUALIFY. PAYMENT. S529 INCLUDES PER MONTH DESTINATION LEASE RATE CHARGE BASED ON OPTIONAL $42, (PACKAGE 500 THE EQUIPMENT). SUGGESTED DEALER EXCLUDES CONTRIBUTION TITLE, RESULTING REGISTRATION, A DEPOSIT TOTAL LICENSE GROSS FEES, CAPITALIZED INSURANCE, DEALER DEALER ADDITIONAL FINAL OPTIONS. PRICE
+2023
+Mercedes-Benz
+GLA
+250
+4MATIC®
+LEASE
+FOR
+$
+529/MO
+FOR
+36
+MONTHS
+$4,253
+TOTAL
+DUE
+AT
+SIGNING
+2023
+MERCEDES-
+BENZ
+GLA
+4MATIC®
+AVAILABLE
+ONLY
+QUALIFIED
+CUSTOMERS
+THROUGH
+MERCEDES-BENZ
+FINANCIAL
+SERVICES
+(WHERE
+APPLICABLE
+ADVERTISED
+LEASE)
+PARTICIPATING
+AUTHORIZED
+MERCEDES-BENZ
+THROUGH
+NOT
+EVERYONE
+ADVERTISED
+250
+TO
+MSRP
+OF
+LESS
+IN
+TO
+COST
+AT
+OF
+$40,915.
+SETS
+CONTRIBUTION
+DEALERS
+3.31.
+23
+COULDAFFECT
+SHOP
+INVENTORY
+WILL
+QUALIFY.
+PAYMENT.
+S529
+INCLUDES
+PER
+MONTH
+DESTINATION
+LEASE
+RATE
+CHARGE
+BASED
+ON
+OPTIONAL
+$42,
+(PACKAGE
+500
+THE
+EQUIPMENT).
+SUGGESTED
+DEALER
+EXCLUDES
+CONTRIBUTION
+TITLE,
+RESULTING
+REGISTRATION,
+A
+DEPOSIT
+TOTAL
+LICENSE
+GROSS
+FEES,
+CAPITALIZED
+INSURANCE,
+DEALER
+DEALER
+ADDITIONAL
+FINAL
+OPTIONS.
+PRICE
+
+image8.jpg
+HONDA
+BRIO
+ALL-IN DOWNPAYMENT
+24K
+FOR AS LOW AS
+for Brio 1.2 V CVT (20YM)
+Promo duration:
+September 1 to 30, 2021
+BRIO
+Promo duration is from September 1 to 30, 2021. Per DTI Fair Trade Permit No. FTEB-125822 Series of 2021.
+HONDA
+BRIO
+ALL-IN
+DOWNPAYMENT
+24K
+FOR
+AS
+LOW
+AS
+for
+Brio
+1.2
+V
+CVT
+(20YM)
+Promo
+duration:
+September
+1
+to
+30,
+2021
+BRIO
+Promo
+duration
+is
+from
+September
+1
+to
+30,
+2021.
+Per
+DTI
+Fair
+Trade
+Permit
+No.
+FTEB-125822
+Series
+of
+2021.
+
+image9.jpg
+MITSUBISHI MOTORS
+SPRING
+SALES EVENT
+NEW 2023 MITSUBISHI
+2.9% APR
+OUTLANDER
+FOR 60 MONTHS
+SHOP NOW
+2 9% APR for 60 months (60 monthly payments of $17 92 per $1,000 financed at 2. 9% APR with SO down payment) Available through Santander
+Consumer USA, subject to approved credit and insurance. Some customers will not qualify Price, down payment, terms and vehicle availability
+may vary This offer may not combine with factory cash rebates See dealer for details Offer valid from 2/01/2023 through 3/31/2023
+MITSUBISHI
+MOTORS
+SPRING
+SALES
+EVENT
+NEW
+2023
+MITSUBISHI
+2.9%
+APR
+OUTLANDER
+FOR
+60
+MONTHS
+SHOP
+NOW
+2
+9%
+APR
+for
+60
+months
+(60
+monthly
+payments
+of
+$17
+92
+per
+$1,000
+financed
+at
+2.
+9%
+APR
+with
+SO
+down
+payment)
+Available
+through
+Santander
+Consumer
+USA,
+subject
+to
+approved
+credit
+and
+insurance.
+Some
+customers
+will
+not
+qualify
+Price,
+down
+payment,
+terms
+and
+vehicle
+availability
+may
+vary
+This
+offer
+may
+not
+combine
+with
+factory
+cash
+rebates
+See
+dealer
+for
+details
+Offer
+valid
+from
+2/01/2023
+through
+3/31/2023
+
+*********** TEXT DETECTION ENDED ***********
